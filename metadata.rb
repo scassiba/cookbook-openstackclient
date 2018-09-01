@@ -23,4 +23,4 @@ issues_url 'https://github.com/cloudbau/cookbook-openstackclient/issues'
 source_url 'https://github.com/cloudbau/cookbook-openstackclient'
 version '15.0.1'
 
-gem 'fog-openstack'
+gem 'fog-openstack', '<0.2.0'
